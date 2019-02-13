@@ -3,12 +3,12 @@
 Here you will find every project I have accomplished!
 
 
-# SQL
+### SQL
 Queries and Data Manipulation
 Aggregate Functions and Multiple Tables
 
 
-# Python
+### Python
 Syntax
 Functions
 Control Flow
@@ -21,20 +21,20 @@ Files
 Classes
 Function Arguments
 
-# Statistics
+### Statistics
 NumPy
 
-# Hypothesis Testing
+### Hypothesis Testing
 SciPy
 
-# Data Analysis
+### Data Analysis
 Pandas
 
-# Data Visualization 
+### Data Visualization 
 Matplotlib
 Seaborn
 
-# Machine Learning 
+### Machine Learning 
 Linear Regression
 Multiple Linear Regression
 K-Nearest Neighbors
