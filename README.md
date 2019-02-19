@@ -2,39 +2,19 @@
 
 Here you will find every project I have accomplished!
 
-
-### SQL
+### [SQL](https://github.com/nwoodr94/sql-projects)
 1. Queries and Data Manipulation
 2. Aggregate Functions and Multiple Tables
+3. Big Data Manipulation
 
+### [Python](https://github.com/nwoodr94/python-projects)
+1. Numpy
+2. SciPy
+3. Pandas
+4. Matplotlib/Seaborn/Plotly
+5. Machine Learning Algorithms
 
-### Python
-1. Syntax
-2. Functions
-3. Control Flow
-4. Lists
-5. Loops
-6. Strings
-7. Modules
-8. Dictionaries
-9. Files
-10. Classes
-11. Function Arguments
-
-### Statistics
-NumPy
-
-### Hypothesis Testing
-SciPy
-
-### Data Analysis
-Pandas
-
-### Data Visualization 
-1. Matplotlib
-2. Seaborn
-
-### Machine Learning 
+### [Machine Learning](https://github.com/nwoodr94/machine-learning)
 1. Linear Regression
 2. Multiple Linear Regression
 3. K-Nearest Neighbors
