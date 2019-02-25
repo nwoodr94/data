@@ -3,7 +3,7 @@
 Here you will find every project I have accomplished!
 
 ### [Machine Learning](https://github.com/nwoodr94/machine-learning)
-This Machine Learning repository showcases projects involving real use cases of machine learning algorithms, developed initially by mathematics, and later through an implementation of the scikit-learn library.
+This Machine Learning repository contains projects involving real use cases of machine learning algorithms, developed initially by mathematics, and later through an implementation of the scikit-learn library.
 
 ### [Python](https://github.com/nwoodr94/python-projects)
 The Python repository shows my ability to use the python data science libraries to perform statistics, hypothesis testing, visualization, and calculus used in machine learning libraries.
