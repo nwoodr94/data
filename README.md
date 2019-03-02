@@ -1,6 +1,4 @@
-## Nathan Woodruff
-
-### Welcome
+## Welcome
 
 Welcome to my data science and machine learning portfolio.
 
