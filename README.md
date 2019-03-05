@@ -2,8 +2,6 @@
 
 Welcome to my data science and machine learning portfolio.
 
-Click the links below to view these repositories on GitHub:
-
 ### [Machine Learning](https://github.com/nwoodr94/machine-learning#machine-learning)
 Machine Learning contains projects involving real use cases of machine learning algorithms, developed initially by mathematics, and later through an implementation of the scikit-learn library.
 
