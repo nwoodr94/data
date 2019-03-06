@@ -2,8 +2,8 @@
 
 Welcome to my data science and machine learning portfolio.
 
-### [Machine Learning](https://github.com/nwoodr94/machine-learning#machine-learning)
-Machine Learning contains projects involving real use cases of machine learning algorithms, developed initially by mathematics, and later through an implementation of the scikit-learn library.
+### [Machine Learning / Deep Learning](https://github.com/nwoodr94/machine-learning#machine-learning)
+This repository contains projects involving real use cases of machine learning algorithms, and more advanced deep learning models.
 
 ### [Python](https://github.com/nwoodr94/python-projects#python-projects)
 Python shows my ability to use common data science libraries to perform statistics, hypothesis testing, visualization, and calculus used in machine learning algorithms.
