@@ -2,7 +2,7 @@
 
 Welcome to my data science and machine learning portfolio.
 
-### [Machine Learning / Deep Learning](https://github.com/nwoodr94/machine-learning#machine-learning--deep-learning)
+### [Machine Learning / Deep Learning](https://nwoodr94.github.io/machine-learning/)
 This repository contains projects involving real use cases of machine learning algorithms, and more advanced deep learning models.
 
 ### [Python](https://github.com/nwoodr94/python-projects#python-projects)
