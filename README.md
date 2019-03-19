@@ -8,8 +8,8 @@ This repository contains projects involving real use cases of machine learning a
 ### [Python](https://nwoodr94.github.io/python-projects/)
 Python shows my ability to use common data science libraries to perform statistics, hypothesis testing, visualization, and calculus.
 
-### [C++](https://nwoodr94.github.io/cpp-projects/)
-C++ is where I host scientific projects dealing with microprocessors, sensors, and actuators.
+### [C/C++](https://nwoodr94.github.io/cpp-projects/)
+C/C++ is where I host scientific projects dealing with microprocessors, sensors, and actuators.
 
 ### [Dashboards](https://nwoodr94.github.io/dashboards/)
 Dashboards has custom and deployable dashboards designed to interact with clients or users.
